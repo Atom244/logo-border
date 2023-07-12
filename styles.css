@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(98, 116, 110, 0.929);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rounded-img {
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 0.6em;
+  margin-bottom: 0.8em;
+  padding: 10px 20px;
+}
